@@ -1,3 +1,16 @@
 .avatar {
     width: 300px;
 }
+
+.top-image {
+    width: 500px;
+}
+
+.pic-header {
+    padding-left: 108px;
+    font-size: 17px;
+    text-align: center;
+}
+ .bio-text {
+     margin-top: 43px;
+ }
